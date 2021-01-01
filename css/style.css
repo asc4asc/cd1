@@ -82,6 +82,7 @@ small {
     opacity: 0.2;
     position: absolute;
     /* bottom: 0; */
+    center: 1;
     left: 50%;
     transform: translateX(-50%);
     margin: 0;
