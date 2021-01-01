@@ -80,7 +80,7 @@ small {
 .year {
     font-size: 200px;
     z-index: -1;
-    opacity: 0.2;
+    opacity: 0.4;
     position: absolute;
     bottom: 20%;
     left: 50%;
