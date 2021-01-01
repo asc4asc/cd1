@@ -84,6 +84,7 @@ small {
     left: 50%;
     transform: translateX(-50%);
     margin: 0;
+    justify-content: center;
 }
 
 @media (max-width: 800px) {
