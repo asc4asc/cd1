@@ -81,7 +81,7 @@ small {
     z-index: -1;
     opacity: 0.4;
     position: absolute;
-    bottom: 80%;
+    bottom: 60%;
     left: 50%;
     transform: translateX(-50%);
     margin: 0;
