@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 :root {
-    /* --primary-color: #fff; */ 
-    --primary-color: red; 
+    /* --primary-color: #fff; */ /* white */ 
+    /* --primary-color: red; /* must be selected after selecting background-image */ 
 }
 
 * {
@@ -36,7 +36,6 @@ body {
 
 h1 {
     font-size: 60px;
-    color: black;
 }
 
 .count-down {
